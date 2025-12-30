@@ -1,5 +1,6 @@
 # Python-Web-Scraper-Project
 **Python web scraper for extracting data from websites using requests and BeautifulSoup, with Selenium support for JavaScript pages and CSV/JSON export.**
+
 📊 Python Web Scraper
 A comprehensive and versatile web scraping tool built with Python that can handle both static and dynamic websites. This scraper includes multiple approaches for different scraping needs, from simple HTTP requests to JavaScript-rendered content.
 
